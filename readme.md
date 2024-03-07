@@ -23,7 +23,7 @@ Can we predict review scores using machine learning?
 
 ## Database
 We used SQL Server to create data tables in SQL. The Entity Relationship Diagram(ERD) below shows the connectivity between the 11 data tables used in our analysis.
-![Sql Schema](static/sql_schema.png)
+![Sql Schema](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/sql_schema.png)
 
 
 ## Transformation
@@ -46,43 +46,43 @@ Before starting with the analysis data needs to be cleaned. The cleaning process
 
 ## Dashboarding
 ### Data Modelling in PowerBI
-![Data modelling](static/datamodel-olist.jpg)
+![Data modelling](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/datamodel-olist.jpg)
 
 ### Overview Page
-![Overview Page](static/home.jpg)
+![Overview Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/home.jpg)
 
 ### Marketing Leads Page
-![Marketing Page](static/marketing-leads.jpg)
+![Marketing Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/marketing-leads.jpg)
 
 ### Revenue Page
-![Revenue Page](static/revenue.jpg)
+![Revenue Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/revenue.jpg)
 
 ### Customer Analysis Page
-![Customer Page](static/customer.jpg)
+![Customer Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/customer.jpg)
 
 ### Delivery Analysis Page
-![Delivery Page](static/delivery.jpg)
+![Delivery Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/delivery.jpg)
 
 ### Late Delivery Investigation Page
-![Late-Delivery Page](static/late-delivery.jpg)
+![Late-Delivery Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/late-delivery.jpg)
 
 ### User Seniment Analysis Page
-![Seniment Page](static/sentiment.jpg)
+![Seniment Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/sentiment.jpg)
 
 ### Detailed Sentiment Analysis Page
-![Detailed Page](static/sentiment_detail.jpg)
+![Detailed Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/sentiment_detail.jpg)
 
 ## Clustering
 
 For clustering analysis, I worked on Pyspark notebooks-databricks due to the computational speed and to evaluate clustering analysis using both sparkML and scikit-learn libraries. Check out the notebooks section in the repo.
-![cluster selection Page](static/final_clustering_selection.jpeg)
+![cluster selection Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/final_clustering_selection.jpeg)
 
 ## Final model Selection
 ![Final Model selection & Segmentation Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8667267216737444/981413217912682/6052381717536981/latest.html)
 
 ## Result Takeaways
-![cluster selection Page](static/results_takeaway.jpeg)
+![cluster selection Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/results_takeaway.jpeg)
 
 ## Recommendation 
 Checkout the final report for a detailed report and recommendation:
-![final Page](Final%20Marketplace%20Report.pdf)
+![final Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/Final%20Marketplace%20Report.pdf)
