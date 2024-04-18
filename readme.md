@@ -55,7 +55,7 @@ Before starting with the analysis data needs to be cleaned. The cleaning process
 ![Marketing Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/marketing-leads.jpg)
 
 ### Revenue Page
-![Revenue Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/revenue.jpg)
+![Revenue Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/revenue-.jpg)
 
 ### Customer Analysis Page
 ![Customer Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/customer.jpg)
@@ -78,7 +78,7 @@ For clustering analysis, I worked on Pyspark notebooks-databricks due to the com
 ![cluster selection Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/final_clustering_selection.jpeg)
 
 ## Final model Selection
-![Final Model selection & Segmentation Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8667267216737444/981413217912682/6052381717536981/latest.html)
+![https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8667267216737444/981413217912682/6052381717536981/latest.html]
 
 ## Result Takeaways
 ![cluster selection Page](https://raw.githubusercontent.com/Suhaib-88/Olist-Segmentation-Dashboarding/master/static/results_takeaway.jpeg)
